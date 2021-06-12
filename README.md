@@ -1,4 +1,4 @@
-# windows-random-cursor
+# Windows-Cursor-Macro
 
 ```
 pip install pywin32
